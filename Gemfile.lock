@@ -1,5 +1,6 @@
-PATH
-  remote: /Users/neodelf/opensource/lecter
+GIT
+  remote: https://github.com/Neodelf/lecter
+  revision: bd5cad6cfccc7161378ddac105d0ebdfd17bcb3e
   specs:
     lecter (0.1.5)
       rest-client
